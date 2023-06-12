@@ -1,9 +1,9 @@
-# salon-appointment-scheduler
+# Salon Appointment Scheduler
 Third project in the Relational Database course from FCC.
 
 I had to create a scheduler for a ficticious salon following this criteria:
 
-Complete the tasks below
+# Complete the tasks below
 •	You should create a database named salon
 
 •	You should connect to your database, then create tables named customers, appointments, and services
